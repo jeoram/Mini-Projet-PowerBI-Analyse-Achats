@@ -1,0 +1,6 @@
+supplier,spend,savings_amount,otd_pct,quality_pct,rse_score,order_date
+Fournisseur A,150000,12000,95,98,82,2024-01-15
+Fournisseur B,120000,9000,88,92,75,2024-01-20
+Fournisseur C,90000,18000,91,90,68,2024-02-05
+Fournisseur A,200000,15000,97,99,84,2024-02-12
+Fournisseur D,75000,5000,85,89,72,2024-03-02

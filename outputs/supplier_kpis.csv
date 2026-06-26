@@ -1,0 +1,5 @@
+supplier,spend_total,savings_amount,savings_pct,otd_pct,quality_pct,rse_score,order_count,spend_share_pct
+Fournisseur A,350000,27000,7.75,96.0,98.5,83.0,2,55.118110236220474
+Fournisseur B,120000,9000,7.5,88.0,92.0,75.0,1,18.89763779527559
+Fournisseur C,90000,18000,20.0,91.0,90.0,68.0,1,14.173228346456693
+Fournisseur D,75000,5000,6.666666666666667,85.0,89.0,72.0,1,11.811023622047244
