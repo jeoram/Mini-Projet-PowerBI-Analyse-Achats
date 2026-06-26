@@ -49,6 +49,11 @@ Le script Python dans [scripts/eda_kpi.py](scripts/eda_kpi.py) prépare automati
 - un fichier de KPI par fournisseur,
 - un fichier de KPI par période si une colonne de date est présente.
 
+Pour générer des visualisations directement depuis Python, exécutez :
+python scripts/visualize_kpi.py
+
+Les graphiques seront exportés dans [outputs/plots](outputs/plots).
+
 ## 📈 KPIs recommandés à intégrer dans Power BI
 Pour la partie Power BI, les KPI suivants sont particulièrement utiles :
 - Spend Total
