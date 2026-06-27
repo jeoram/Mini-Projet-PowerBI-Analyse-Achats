@@ -33,7 +33,7 @@ Ce dashboard permet d'aider la prise de décision pour la Direction Achats.
    python scripts/eda_kpi.py
 
 ## 📸 Aperçu du Dashboard
-![Vue Globale](screenshots/01_Page_Accueil.png)
+-> screenshots
 
 ## 🔑 KPIs développés
 - Spend Total & Savings %
