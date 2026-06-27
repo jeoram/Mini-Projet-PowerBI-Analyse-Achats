@@ -1,4 +1,4 @@
-# Mini-Projet Power BI - Analyse Achats Safran Nacelles
+# Mini-Projet Power BI - Analyse Achats
 
 ## 🎯 Contexte
 Analyse et visualisation des performances achats : panel fournisseurs, KPIs opérationnels, financiers et RSE.
