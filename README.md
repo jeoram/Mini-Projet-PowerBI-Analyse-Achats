@@ -1,8 +1,8 @@
 # Analyse BI - Analyse Achats
 
 ## 🎯 Contexte
-Analyse et visualisation des performances achats : panel fournisseurs, KPIs opérationnels, financiers et RSE.
-Ce dashboard permet d'aider la prise de décision pour la Direction Achats.
+Développement d'un tableau de bord Power BI pour l'analyse des performances achats à partir de 500 000 lignes de données SQL. Modélisation des 
+données et création de KPIs d'indicateurs opérationnels, financiers et RSE
 
 ## 🛠 Technologies utilisées
 - Power BI Desktop (modélisation, DAX, visualisation)
